@@ -51,7 +51,7 @@ php artisan config:clear
 php artisan view:clear
 php artisan serve
 ```
-**Akses aplikasi di browser melalui url http://127.0.0.1:8000.**
+**Open your browser and navigate to http://127.0.0.1:8000 to access the running system.**
 
 
 
