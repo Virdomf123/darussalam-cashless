@@ -21,7 +21,7 @@ An integrated cashless financial management platform tailored for the Pesantren 
 
 1. **Clone the Repository & Navigate to Project Directory:**
 ```bash
-   git clone [https://github.com/username/your-repository-name.git](https://github.com/username/your-repository-name.git)
+   git clone (https://github.com/Virdomf123/darussalam-cashless)(https://github.com/Virdomf123/darussalam-cashless)
    cd darussalam-cashless
 ```
 2. **Install Composer Dependencies:**
