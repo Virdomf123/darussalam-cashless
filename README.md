@@ -5,7 +5,7 @@ An integrated cashless financial management platform tailored for the Pesantren 
 ## 🚀 Key Features
 - **Multi-Role Access Control:** Customized views and workflows for Admin (Database Management & Balances Top Up), Cashier (Canteen Point of Sales Execution), and Parents (Dashboard Monitoring).
 - **Budget Tracking:** Dynamic weekly expenditure tracking visualized through interactive line charts powered by Chart.js.
-- **AI Financial Assistant:** Automated non-technical financial evaluation summaries parsing students' cashflows via the Gemini 1.5 Flash API.
+- **AI Financial Assistant:** Automated non-technical financial evaluation summaries parsing students' cashflows via the gemini-3-flash.
 - **Interactive Chatbot AI:** A real-time, two-way conversational room for parents to consult individual budgeting strategies and student data analytics.
 - **Savings Goal Tracker:** Animated progress bar milestones calculating target achievements and detailed deposit transfer histories.
 - **Full Localization Support:** Seamless on-the-fly session switching between English and Indonesian across all view components.
