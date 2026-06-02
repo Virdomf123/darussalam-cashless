@@ -40,9 +40,9 @@ cp .env.example .env
    - Generate the unique Laravel application framework encryption key:
    ```bash
      php artisan key:generate
-     
+     ```
 
-4. Run Database Migrations & Seed Dummy Data:
+4. **Run Database Migrations & Seed Dummy Data:**
 ```
 php artisan migrate --seed
 ```
