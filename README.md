@@ -41,10 +41,10 @@ cp .env.example .env
    ```bash
      php artisan key:generate
      ```
-
-    4. **Run Database Migrations & Seed Dummy Data:**
+4. **Run Database Migrations & Seed Dummy Data:**
    ```bash
    php artisan migrate --seed
+   ```
 
 5. **Clear Local Configuration Caches & Boot the Server:**
 ```
@@ -52,6 +52,7 @@ php artisan config:clear
 php artisan view:clear
 php artisan serve
 ```
+
 **Open your browser and navigate to http://127.0.0.1:8000 to access the running system.**
 
 
