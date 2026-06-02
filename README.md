@@ -8,6 +8,7 @@ An integrated cashless financial management platform tailored for the Pesantren 
 - **AI Financial Assistant:** Automated non-technical financial evaluation summaries parsing students' cashflows via the gemini-3-flash.
 - **Interactive Chatbot AI:** A real-time, two-way conversational room for parents to consult individual budgeting strategies and student data analytics.
 - **Savings Goal Tracker:** Animated progress bar milestones calculating target achievements and detailed deposit transfer histories.
+- **Basic Investment Guidance:** Predictive future simulations converting daily residual savings balances into stable gold asset projections.
 - **Full Localization Support:** Seamless on-the-fly session switching between English and Indonesian across all view components.
 
 ## 🛠️ Tech Stack
