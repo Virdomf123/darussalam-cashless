@@ -42,7 +42,8 @@ cp .env.example .env
      php artisan key:generate
      ```
 
-4.**Run Database Migrations & Seed Dummy Data:**
+4. **Run Database Migrations & Seed Dummy Data:**
+
    ```bash
    php artisan migrate --seed
    ```
